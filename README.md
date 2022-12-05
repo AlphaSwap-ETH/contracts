@@ -1,4 +1,6 @@
-# Smart Contracts AlphaSwap.cc ✨
+# 🧠 Smart Contracts AlphaSwap.cc ✨
 
-🏊🏻‍♂️ Pools
- 
+### 🔻 Goërli Ethereum:
+- 🏊🏻‍♂️ Pools: https://goerli.etherscan.io/xyz
+- 🚦 Router: https://goerli.etherscan.io/xyz
+- 🏭 Factory: https://goerli.etherscan.io/xyz
